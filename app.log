@@ -1,0 +1,3 @@
+INFO:root:Getting recommendations for: The Shawshank Redemption, Index: 0
+INFO:root:Getting recommendations for: Nonexistent Movie, Index: None
+WARNING:root:Movie title 'Nonexistent Movie' not found.
